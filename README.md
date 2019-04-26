@@ -1,2 +1,2 @@
 # pythonProject
-there are some projects about python
+This is a station crawler project, which can climb the latest Chinese train information and visualize the results
